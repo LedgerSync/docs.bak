@@ -59,6 +59,9 @@ params:
   table_border_color: "#e9ebec"
   hr_border_color: "#eff0f1"
 
+publishDir: docs
+
+
 # menu:
 #   nav:
 #     - name: LedgerSync
