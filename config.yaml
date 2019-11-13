@@ -2,7 +2,7 @@ baseURL: https://www.ledgersync.dev
 languageCode: en-us
 defaultContentLanguage: en
 title: LedgerSync
-theme: cayman-hugo-theme
+# theme: cayman-hugo-theme
 
 # Google analytics
 googleAnalytics: UA-152343827-1
